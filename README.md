@@ -11,7 +11,7 @@ Features and Goals:
 ## UI and Logic Planning
 Class Diagram
 
-![Class Diagram]()
+![Class Diagram](https://github.com/olmpyia/StudyHero/blob/main/images/ClassDiagram.drawio.png?raw=true)
 
 GUI Mockup
 
