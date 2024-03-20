@@ -23,11 +23,12 @@ Start Screen
 
 Level Backgrounds
 
-![Grass Background]()
+![Background]()
 
 Enemy Designs / Sprites
 
 ![character sprites]()
 
 Card designs
-![character sprites]()
+
+![card sprites]()
