@@ -1,6 +1,7 @@
 # StudyHero
 Information on project:
 ## Creator
+Mads McDougal
 
 ## Project Objective
 Features and Goals:
@@ -10,24 +11,23 @@ Features and Goals:
 ## UI and Logic Planning
 Class Diagram
 
-![Class Diagram](https://github.com/olmpyia/GroupProject/blob/main/images/(SZ)PEMDASHdiagram.png?raw=true)
+![Class Diagram]()
 
 GUI Mockup
 
-![GUI Mockups](https://github.com/olmpyia/GroupProject/blob/main/images/(JT)GUIMockup.png?raw=true)
+![GUI Mockups]()
 
 Start Screen
 
-![Start Screen](https://github.com/olmpyia/GroupProject/blob/main/images/(MM)startscreen.png?raw=true)
+![Start Screen]()
 
 Level Backgrounds
 
-![Grass Background](https://github.com/olmpyia/GroupProject/blob/main/images/(MM)SceneA.png?raw=true)
+![Grass Background]()
 
-Character Designs / Sprites
+Enemy Designs / Sprites
 
-![character sprites](https://github.com/olmpyia/GroupProject/blob/main/images/(MM)Ball.png?raw=true)
+![character sprites]()
 
-Brainstorming Possible Obstacles 
-
-![Brainstorming Possible Obstacles](https://github.com/olmpyia/GroupProject/blob/main/images/(AS)%20Brainstorming%20Obstacles%20for%20project.png?raw=true)
+Card designs
+![character sprites]()
