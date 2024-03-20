@@ -24,6 +24,7 @@ Start Screen
 Level Backgrounds
 
 ![FightScene](https://github.com/olmpyia/StudyHero/blob/main/images/FightScreen.png?raw=true)
+![CardTable](https://github.com/olmpyia/StudyHero/blob/main/images/CardTable.png?raw=true)
 
 Enemy Designs / Sprites
 
