@@ -1,5 +1,7 @@
 # StudyHero
 Information on project:
+This will be a fun study fighting game. The player will enter in 
+
 ## Creator
 Mads McDougal
 
@@ -15,16 +17,16 @@ Class Diagram
 
 GUI Mockup
 
-![GUI Mockups]()
-
+![FightScene](https://github.com/olmpyia/StudyHero/blob/main/images/FightScreen.png?raw=true)
+![CardTable](https://github.com/olmpyia/StudyHero/blob/main/images/CardTable.png?raw=true)
 Start Screen
 
 ![Start Screen]()
 
 Level Backgrounds
+![background]()
 
-![FightScene](https://github.com/olmpyia/StudyHero/blob/main/images/FightScreen.png?raw=true)
-![CardTable](https://github.com/olmpyia/StudyHero/blob/main/images/CardTable.png?raw=true)
+
 
 Enemy Designs / Sprites
 
