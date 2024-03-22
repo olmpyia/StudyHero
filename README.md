@@ -25,7 +25,7 @@ Start Screen
 
 Level Backgrounds
 
-![background]()
+![Bluebackground](https://github.com/olmpyia/StudyHero/blob/main/images/BlueBackground.png?raw=true)
 
 
 Enemy Designs / Sprites
