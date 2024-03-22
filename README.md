@@ -12,7 +12,7 @@ For features there is a matching feature where the player must match the questio
 ## UI and Logic Planning
 Class Diagram
 
-![Class Diagram](https://github.com/olmpyia/StudyHero/blob/main/images/ClassDiagram.drawio.png?raw=true)
+![Class Diagram](https://github.com/olmpyia/StudyHero/blob/main/images/classdia.drawio.png?raw=true)
 
 GUI Mockup
 
