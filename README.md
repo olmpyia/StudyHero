@@ -34,4 +34,4 @@ Enemy Designs / Sprites
 
 Card designs
 
-![card sprites]()
+![card designs]()
