@@ -30,7 +30,7 @@ Level Backgrounds
 
 Enemy Designs / Sprites
 
-![character sprites]()
+![Jelly sprites](https://github.com/olmpyia/StudyHero/blob/main/images/Jelly.png?raw=true)
 
 Card designs
 
