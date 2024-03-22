@@ -21,7 +21,7 @@ GUI Mockup
 
 Start Screen
 
-![Start Screen]()
+![Start Screen](https://github.com/olmpyia/StudyHero/blob/main/images/startscreen.png?raw=true)
 
 Level Backgrounds
 
