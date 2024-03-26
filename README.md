@@ -34,4 +34,4 @@ Enemy Designs / Sprites
 
 Card designs
 
-![card designs]()
+![card designs](https://github.com/olmpyia/StudyHero/blob/main/images/CardDesignJell.png?raw=true)
